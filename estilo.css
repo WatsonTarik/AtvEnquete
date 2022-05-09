@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+.bola {
+    background-color: white;
+    text-align: center;
+    border-radius: 300px;
+    height: 60px;
+    width: 400px;
+    left: 35%;
+    position: relative;
+    font-size: 45px;
+}
+.butaos {
+    font-size: 25px;
+    position: relative;
+    color: white;
+    left: 500px;
+    width: 100px;
+    height: 40px;
+    background-color: green;
+}
+.butaon {
+    font-size: 25px;
+    position: relative;
+    color: white;
+    left: 700px;
+    width: 100px;
+    height: 40px;
+    background-color: red;
+}
+.Result {
+    color: white;
+    font-size: 30px;
+}
+#sim {
+    width: 0px;
+    background-color: green;
+    color: white;
+}
+#nao {
+    width: 0px;
+    background-color: red;
+    color: white;
+} 
